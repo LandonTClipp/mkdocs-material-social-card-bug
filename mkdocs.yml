@@ -1,0 +1,15 @@
+site_name: Landon's Blog
+
+theme:
+  name: material
+plugins:
+- blog
+- social:
+    cards_layout_dir: layouts
+    cards_layout: custom
+    debug: false
+nav:
+  - index.md
+  - Blog:
+    - blog/index.md
+

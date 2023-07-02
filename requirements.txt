@@ -1,0 +1,4 @@
+mkdocs
+pillow 
+cairosvg
+git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
