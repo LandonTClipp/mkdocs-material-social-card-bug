@@ -4,6 +4,7 @@ theme:
   name: material
 plugins:
 - blog
+- info
 - social:
     cards_layout_dir: layouts
     cards_layout: custom
